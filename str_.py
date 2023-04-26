@@ -27,3 +27,4 @@ print(txt.count("o"))  # 2 -> (o) is two times in txt -> hell(o) w(o)rld
 
 txt = "hello world"
 print(txt * 3, )  # hello worldhello worldhello world
+
